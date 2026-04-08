@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["libs/pixel-blueprint/libs/pixel-functionality/src/lib/animated-header/pixel-animated-header.scss"],
+  "sourcesContent": [".pixel-animated-header {\n  position: relative;\n  z-index: 10;\n\n  &--floating {\n    position: sticky;\n    top: 0;\n    transform: translateY(-100%);\n    opacity: 0;\n    transition: transform 0.3s ease-out, opacity 0.3s ease-out;\n    z-index: 1001;\n  }\n\n  &--floating#{&}--visible {\n    transform: translateY(0);\n    opacity: 1;\n  }\n}\n"],
+  "mappings": ";AAAA,CAAA;AACE,YAAA;AACA,WAAA;;AAEA,CAAA;AACE,YAAA;AACA,OAAA;AACA,aAAA,WAAA;AACA,WAAA;AACA,cAAA,UAAA,KAAA,QAAA,EAAA,QAAA,KAAA;AACA,WAAA;;AAGF,CATA,+BASA,CAAA;AACE,aAAA,WAAA;AACA,WAAA;;",
+  "names": []
+}
