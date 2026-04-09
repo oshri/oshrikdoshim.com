@@ -10,7 +10,7 @@
 │  SYSTEM.STATUS        VIEWER.CORE                    │
 │  ──────────────       ───────────                    │
 │  FIRMWARE    v0.1.0    THEME    DEFAULT              │
-│  DEPLOY      v15       BUILD    2026-04-09           │
+│  DEPLOY      v16       BUILD    2026-04-09           │
 │  STATUS      ACTIVE     RENDER   CLIENT-SIDE         │
 │                                                      │
 │  ░░▒▒▓▓██ CORE.BIN LOADED ██▓▓▒▒░░                   │
@@ -26,7 +26,7 @@ Powered by [TimePiXel](https://timepixel.ai) — your personal timeline viewer.
 | | |
 |---|---|
 | **Viewer** | v0.1.0 |
-| **Deploy** | v15 |
+| **Deploy** | v16 |
 | **Built** | 2026-04-09 |
 | **URL** | [https://oshrikdoshim.com](https://oshrikdoshim.com) |
 ---
